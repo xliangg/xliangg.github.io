@@ -1,5 +1,5 @@
 <?php
-define('APPID','APPID');
-define('APPSECRET','APPSECRET');
-define('TOKEN','Token');
+define('APPID','wxd7ac6cbe06af006e');
+define('APPSECRET','f05853ab953e72edbb30725cca65e073');
+define('TOKEN','dudu');
 ?>
